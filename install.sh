@@ -22,9 +22,9 @@ Usage: $0 [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
 
 Typical usage:
 
-    curl http://url/install | sh
+    curl https://raw.github.com/glickbot/riak_quickscripts/master/install.sh | sh
 
-    curl http://url/install | <option>=<value> sh
+    curl https://raw.github.com/glickbot/riak_quickscripts/master/install.sh | <option>=<value> sh
     
     Where <option>=<value> can be:
         version=x.x.x.x
