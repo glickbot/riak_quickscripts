@@ -11,7 +11,7 @@ Usage:
 
 Better URL to come.
 
-    Usage: $0 [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
+    Usage: install.sh [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
     Where:
         -v <ver> - version to install
         -r <rel> - release to install
