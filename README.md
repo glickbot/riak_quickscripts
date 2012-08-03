@@ -6,7 +6,9 @@ Scripts to help install & sync cluster configurations
 install.sh
 ==========
 Usage:
+
     https://github.com/glickbot/riak_quickscripts/blob/master/install.sh | sh
+
 Better URL to come.
 
     Usage: $0 [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
