@@ -11,20 +11,16 @@ Usage:
 
 Better URL to come.
 
-Works (preliminarily) on:
-- MacOS
-- Ubuntu/Debian
-- Fedora
-- Centos5/6
-- Redhat5/6
+"Should" work on MacOS, Ubuntu/Debian, Fedora, Centos5/6, Redhat5/6, Solaris10
 
-Hasen't been tested on:
-- Solaris
-- SmartOS
-- anything else
+Initially tested on:
+- Mac Lion 10.7.4
+- Ubuntu 12.04
+- Centos 6.4
 
-
-    Usage: install.sh [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
+More Options
+------------
+    install.sh [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
     Where:
         -v <ver> - version to install
         -r <rel> - release to install
