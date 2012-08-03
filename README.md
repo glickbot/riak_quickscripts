@@ -1,5 +1,5 @@
-riak_quickscripts
-=================
+riak_quickscripts (alpha)
+=========================
 
 Scripts to help install & sync cluster configurations
 
@@ -10,6 +10,18 @@ Usage:
     https://github.com/glickbot/riak_quickscripts/blob/master/install.sh | sh
 
 Better URL to come.
+
+Works (preliminarily) on:
+- MacOS
+- Ubuntu/Debian
+- Fedora
+- Centos5/6
+- Redhat5/6
+
+Hasen't been tested on:
+- Solaris
+- SmartOS
+- anything else
 
     Usage: install.sh [-v <ver>] [-r <rel>] [-t <tmp>] [-i <inst>] [-h]
     Where:
